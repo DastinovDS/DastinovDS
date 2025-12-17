@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello 👋, I'm <strong>Dani</strong></h1>
+<h1 align="center">Hi 👋, I'm <strong>Dani</strong></h1>
 
 <p align="center">
   <img src="https://count.getloli.com/@DastinovDS?name=DastinovDS&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
