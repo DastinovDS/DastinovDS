@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**DastinovDS/DastinovDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello 👋, I'm <strong>Dani</strong></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://count.getloli.com/@DastinovDS?name=DastinovDS&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&separator=%3C&lines=Touch+some+grass+;)" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center">Languages and Technologies:</h3>
+<p align="center">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/g" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker" width="40" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DastinovDS&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
