@@ -5,6 +5,8 @@
   <img src="https://count.getloli.com/@DastinovDS?name=DastinovDS&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&separator=%3C&lines=Gimme+that" alt="Typing SVG" /></a>
 </p>
