@@ -24,6 +24,9 @@
   <a href="https://www.docker.com/g" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker" width="40" height="40" />
   </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">
